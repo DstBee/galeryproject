@@ -138,8 +138,8 @@ main {
 }
 
 .info_items{
+    display: flex;
     justify-content: space-between;
-    display: inline-block;
 }
 
 /*h3{
